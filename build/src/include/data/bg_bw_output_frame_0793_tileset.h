@@ -1,0 +1,11 @@
+#ifndef BG_BW_OUTPUT_FRAME_0793_TILESET_H
+#define BG_BW_OUTPUT_FRAME_0793_TILESET_H
+
+// Tileset: bg_bw_output_frame_0793_tileset
+
+#include "gbs_types.h"
+
+BANKREF_EXTERN(bg_bw_output_frame_0793_tileset)
+extern const struct tileset_t bg_bw_output_frame_0793_tileset;
+
+#endif

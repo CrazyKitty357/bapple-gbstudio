@@ -1,0 +1,11 @@
+#ifndef BG_BW_OUTPUT_FRAME_2636_H
+#define BG_BW_OUTPUT_FRAME_2636_H
+
+// Background: bw_output_frame_2636
+
+#include "gbs_types.h"
+
+BANKREF_EXTERN(bg_bw_output_frame_2636)
+extern const struct background_t bg_bw_output_frame_2636;
+
+#endif

@@ -1,0 +1,11 @@
+#ifndef GENERATED_SCENE_4552_H
+#define GENERATED_SCENE_4552_H
+
+// Scene: Generated Scene 4552
+
+#include "gbs_types.h"
+
+BANKREF_EXTERN(generated_scene_4552)
+extern const struct scene_t generated_scene_4552;
+
+#endif

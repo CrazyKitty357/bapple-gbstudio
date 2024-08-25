@@ -1,0 +1,11 @@
+#ifndef GENERATED_SCENE_217_INIT_H
+#define GENERATED_SCENE_217_INIT_H
+
+// Script generated_scene_217_init
+
+#include "gbs_types.h"
+
+BANKREF_EXTERN(generated_scene_217_init)
+extern const unsigned char generated_scene_217_init[];
+
+#endif

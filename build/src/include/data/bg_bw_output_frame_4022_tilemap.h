@@ -1,0 +1,11 @@
+#ifndef BG_BW_OUTPUT_FRAME_4022_TILEMAP_H
+#define BG_BW_OUTPUT_FRAME_4022_TILEMAP_H
+
+// Tilemap bg_bw_output_frame_4022_tilemap
+
+#include "gbs_types.h"
+
+BANKREF_EXTERN(bg_bw_output_frame_4022_tilemap)
+extern const unsigned char bg_bw_output_frame_4022_tilemap[];
+
+#endif

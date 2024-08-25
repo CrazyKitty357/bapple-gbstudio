@@ -1,0 +1,18 @@
+#pragma bank 255
+
+// Background: bw_output_frame_6130
+
+#include "gbs_types.h"
+#include "data/bg_bw_output_frame_6130_tileset.h"
+#include "data/bg_bw_output_frame_6130_tilemap.h"
+
+BANKREF(bg_bw_output_frame_6130)
+
+const struct background_t bg_bw_output_frame_6130 = {
+    .width = 20,
+    .height = 18,
+    .tileset = TO_FAR_PTR_T(bg_bw_output_frame_6130_tileset),
+    .cgb_tileset = { NULL, NULL },
+    .tilemap = TO_FAR_PTR_T(bg_bw_output_frame_6130_tilemap),
+    .cgb_tilemap_attr = { NULL, NULL }
+};
